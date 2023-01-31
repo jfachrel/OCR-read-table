@@ -14,7 +14,7 @@
 - Difficult to get parameters that can perfectly describe the contours of the table.
 - Tesseract can't detect handwriting very well.
 - There are some images that are of poor quality
-- 
+
 ## Area Improvement
 - Perform parameter analysis to find a nicer table contour.
 - Uses an object detection model to detect table and text.
