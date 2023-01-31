@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+pandas
+pytesseract
+imutils
+matplotlib
+sklearn
